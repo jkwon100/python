@@ -1,0 +1,20 @@
+{
+    "authors": [
+      "jkwon100"
+    ],
+    "contributors": [
+    ],
+    "files": {
+      "solution": [
+        "after_party.py"
+      ],
+      "test": [
+        "after_party_test.py"
+      ],
+      "example": [
+        ".meta/example.py"
+      ]
+    },
+    "blurb": "Solve an After Party guest list",
+    "source": ""
+  }
