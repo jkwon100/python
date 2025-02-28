@@ -1,0 +1,17 @@
+{
+  "authors": [
+    "Jinanmeotaku"
+  ],
+  "files": {
+    "solution": [
+      "guest_list.py"
+    ],
+    "test": [
+      "guest_list_test.py"
+    ],
+    "example": [
+      ".meta/example.py"
+    ]
+  },
+  "blurb": "Determine if someone is on the guest list."
+}
